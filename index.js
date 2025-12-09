@@ -9,7 +9,7 @@ const path = require("path");
 const TOKEN = "8192831991:AAGtLr7bp2wRSbNjL6xFvPif7CiUUuhII4o";
 
 // 🔴 TUMHARA RENDER LIVE LINK
-const DOMAIN = "https://pandaweb.onrender.com";
+const DOMAIN = "https://pandaweb-1.onrender.com";
 
 
 // ✅ 4 MUST JOIN CHANNELS
